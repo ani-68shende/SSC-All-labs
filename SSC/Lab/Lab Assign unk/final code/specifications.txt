@@ -1,0 +1,12 @@
+Data Type
+Identifier
+Number Real and int
+User defined function
+Array Variable
+Standard function
+Keywords
+Reserved words
+Access Specifiers
+Escape sequence
+-- Format Specifier
+Comment
